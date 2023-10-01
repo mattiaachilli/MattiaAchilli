@@ -1,18 +1,17 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 # Hi👋, I'm Mattia Achilli
-## I'm an Italian Student of Computer Science and Engineering
+## I'm an Italian Software Engineer
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <!--
 
 Here are some ideas to get you started:
 -->
-<!--- 🔭 I’m currently open to work -->
-- 🌱 I’m currently learning at **[UNIBO-Cesena, LM-Ingegneria e Scienze informatiche](https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche)**
-- 👨‍💻 I’m currently working on development technologies like Java, Scala, Python, C.
-- 📚 I’m currently learning everything about Artificial Intelligence like Machine Learning, Deep Learning, Computer Vision and Robotics Systems.
-- 💪🏼 Projects in progress: competitions on <a href="https://www.kaggle.com/"> Kaggle </a> focused on healthcare competitions.
+- 🔭 I’m currently open to work as data scientist
+- 👨‍💻 I'm currently working as a freelance backend developer in WordPress, PHP, Python
+- 📄 I also work as a data engineer for a new company to extract knowledge from data analytically and with machine learning
+- 💪🏼 Projects in progress: competitions on <a href="https://www.kaggle.com/"> Kaggle </a> for fun and learning.
 - 💜 Interests: technology, motorsport, tennis, gym, reading, video games.
 
 ## Languages and Libraries 🛠️
